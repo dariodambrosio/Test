@@ -1,0 +1,32 @@
+
+---
+
+### `tutorials.md`
+
+```md
+# Anleitungen & Projekte
+
+Hier findest du Beispielprojekte zum Nachbauen.
+
+## 🌡️ Temperaturanzeige mit OLED
+
+- Sensor: DHT22
+- Anzeige: OLED 0.96"
+- Controller: Arduino Nano
+
+## 🌍 Umweltdaten ins Web
+
+- Sensor: BME280 + MH-Z19
+- Plattform: ESP32 + MQTT
+- Ziel: Daten in Home Assistant oder ThingsBoard darstellen
+
+## 🔊 Einbruchalarm
+
+- PIR-Sensor + Summer
+- LED-Warnanzeige
+- Automatische Benachrichtigung via ESP
+
+## 🧠 Machine Learning
+
+- Sensoren: Mikrofon, Accelerometer
+- TensorFlow Lite auf dem Edge-Device
