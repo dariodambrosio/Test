@@ -1,0 +1,38 @@
+site_name: TEST Sensor Kits
+site_url: https://sickag.github.io/TEST-Sensor-Kits
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - TEST Sensor Kit: 
+    - Overview: ./overview.md
+    - Getting Started: ./getting_started.md
+    - Code Snippets: ./products.md
+    - Tutorials: ./tutorials.md
+theme:
+  name: readthedocs
+  palette:
+    primary: 'red'
+    accent: 'green'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/SICK_logo_claim_top_right_blue_RGB.svg'
+  features:
+    - content.code.copy
+copyright: "© SICK AG 2025"
+extra:
+  social:
+plugins:
+  - mkdocs-video
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
