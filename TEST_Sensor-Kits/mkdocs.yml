@@ -5,8 +5,8 @@ nav:
   - Home: index.md
   - TEST Sensor Kit: 
     - Overview: ./overview.md
-    - Getting Started: ./getting_started.md
-    - Code Snippets: ./products.md
+    - Getting Started: ./getting-started.md
+    - Code Snippets: ./produts.md
     - Tutorials: ./tutorials.md
 theme:
   name: readthedocs
