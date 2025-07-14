@@ -16,7 +16,7 @@ Entdecke unsere vielfältigen Sets:
 - **IoT Kit** – vernetztes Messen und Steuern mit ESP32  
 - **Umwelt Kit** – Luftqualität, Feinstaub, CO₂ & mehr  
 
-Mehr dazu auf der [Produktübersicht](./products.md)
+Mehr dazu auf der [Produktübersicht](./produts.md)
 
 ## Erste Schritte
 

@@ -8,6 +8,7 @@ nav:
     - Getting Started: ./getting-started.md
     - Code Snippets: ./produts.md
     - Tutorials: ./tutorials.md
+    - FAQ: ./faq.md
 theme:
   name: readthedocs
   palette:
