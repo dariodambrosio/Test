@@ -2,4 +2,4 @@
 
 ## you can ask any questions
 
-great
+[here you will find our discussion forum](https://github.com/dariodambrosio/Test/discussions)
