@@ -2,25 +2,25 @@ site_name: TEST Sensor Kits
 site_url: https://sickag.github.io/TEST-Sensor-Kits
 use_directory_urls: false
 nav:
-  - Home: index.md
+  - Home: TEST Sensor Kit/index.md
   - TEST Sensor Kit: 
-    - Overview: ./overview.md
-    - Getting Started: ./getting-started.md
-    - Code Snippets: ./produts.md
-    - Tutorials: ./tutorials.md
-    - FAQ: ./faq.md
+    - Overview: TEST Sensor Kit/overview.md
+    - Getting Started: TEST Sensor Kit/getting-started.md
+    - Code Snippets: TEST Sensor Kit/produts.md
+    - Tutorials: TEST Sensor Kit/tutorials.md
+    - FAQ: TEST Sensor Kit/faq.md
   - Starter Kit 1:
-    - Overview1: ./overview1.md
-    - Technology1: ./technology1.md
-    - Example1: ./example1.md
+    - Overview1: Starter Kit 1/overview1.md
+    - Technology1: Starter Kit 1/technology1.md
+    - Example1: Starter Kit 1/example1.md
   - Starter Kit 2:
-    - Overview2: ./overview2.md
-    - Technology2: ./technology2.md
-    - Example2: ./example2.md
+    - Overview2: Starter Kit 2/overview2.md
+    - Technology2: Starter Kit 2/technology2.md
+    - Example2: Starter Kit 2/example2.md
   - Starter Kit 3:
-    - Overview3: ./overview3.md
-    - Technology3: ./technology3.md
-    - Example3: example3.md
+    - Overview3: Starter Kit 3/overview3.md
+    - Technology3: Starter Kit 3/technology3.md
+    - Example3: Starter Kit 3/example3.md
 theme:
   name: readthedocs
   palette:
