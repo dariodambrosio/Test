@@ -9,6 +9,19 @@ nav:
     - Code Snippets: ./produts.md
     - Tutorials: ./tutorials.md
     - FAQ: ./faq.md
+  - Starter Kit 1:
+    - Overview1: ./overview1.md
+    - Technology1: ./technology1.md
+    - Example1: ./example1.md
+  - Starter Kit 2:
+    - Overview2: ./overview2.md
+    - Technology2: ./technology2.md
+    - Example2: ./example2.md
+  - Starter Kit 3:
+    - Overview3: ./overview3.md
+    - Technology3: ./technology3.md
+    - Example3: example3.md
+
 theme:
   name: readthedocs
   palette:
