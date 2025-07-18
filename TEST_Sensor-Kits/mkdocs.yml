@@ -21,7 +21,6 @@ nav:
     - Overview3: ./overview3.md
     - Technology3: ./technology3.md
     - Example3: example3.md
-
 theme:
   name: readthedocs
   palette:
