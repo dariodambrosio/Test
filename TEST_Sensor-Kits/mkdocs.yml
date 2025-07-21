@@ -29,7 +29,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo: 'images/SICK_logo_claim_top_right_blue_RGB.svg'
+  logo: 'SICK_logo_claim_top_right_blue_RGB.svg'
   features:
     - content.code.copy
 copyright: "© SICK AG 2025"
