@@ -8,7 +8,6 @@ nav:
     - Getting Started: TEST Sensor Kit/getting-started.md
     - Code Snippets: TEST Sensor Kit/produts.md
     - Tutorials: TEST Sensor Kit/tutorials.md
-    - FAQ: TEST Sensor Kit/faq.md
   - Starter Kit 1:
     - Overview1: Starter Kit 1/overview1.md
     - Technology1: Starter Kit 1/technology1.md
@@ -21,6 +20,8 @@ nav:
     - Overview3: Starter Kit 3/overview3.md
     - Technology3: Starter Kit 3/technology3.md
     - Example3: Starter Kit 3/example3.md
+  - Here you will find help:
+    - FAQ: TEST Sensor Kit/faq.md
 theme:
   name: readthedocs
   palette:
@@ -29,7 +30,7 @@ theme:
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-  logo: SICK_logo_claim_top_right_blue_RGB.svg
+  logo: 'SICK_logo_claim_top_right_blue_RGB.svg'
   features:
     - content.code.copy
 copyright: "© SICK AG 2025"
